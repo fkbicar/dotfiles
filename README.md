@@ -1,2 +1,2 @@
 # dotfiles
-Configuration files
+My hyperland configuration files
